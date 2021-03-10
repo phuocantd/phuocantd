@@ -1,5 +1,5 @@
-### Hi there 👋
-:man_technologist: <strong>I'm a Mobile Developer</strong>
+![header](https://capsule-render.vercel.app/api?color=random&height=300&text=Hi%20there%20👋&fontSize=80&width=500)
+
 
 <!--
 **phuocantd/phuocantd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&theme=dark&width=500)
