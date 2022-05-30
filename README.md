@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="left">
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=phuocantd.phuocandt" />
+![](https://komarev.com/ghpvc/?username=phuocantd&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+</div>  
+
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=phuocantd.phuocantd" /> -->
 <details>
 <summary>Click for view detail</summary>
   <br>
