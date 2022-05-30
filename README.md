@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=phuocantd.phuocandt" />
 <details>
 <summary>Click for view detail</summary>
   <br>
@@ -66,5 +67,3 @@ Here are some ideas to get you started:
   
 </details>
 
-<br/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=phuocantd.phuocandt" />
