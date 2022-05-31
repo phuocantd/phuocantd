@@ -11,6 +11,12 @@
 
 
 ![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
+  
+  
+| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuocantd&theme=react)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocantd&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
+  
 <!--
 **phuocantd/phuocantd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,7 +75,7 @@ Here are some ideas to get you started:
 <!-- [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/phuocantd/)
 [![Tweeter Badge](https://img.shields.io/badge/%20-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/phuocantd_) -->
 
-#### STATS
+<!-- #### STATS
 ![Phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&theme=dark)
 <br>
   
@@ -77,7 +83,8 @@ Here are some ideas to get you started:
 #### STREAKS
 ![Phuocantd's github streak](https://github-readme-streak-stats.herokuapp.com/?user=phuocantd&theme=blue-green)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocantd&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocantd&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+  
   
 </details>
 
