@@ -8,9 +8,9 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=phuocantd&theme=react-dark&hide_border=true">
 <p>
 <br>
-<p align='center'>
-<img src="https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.gif">
-<p>
+
+
+![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
 <!--
 **phuocantd/phuocantd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
