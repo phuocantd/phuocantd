@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?color=random&height=300&text=Hello%20world%20👋&fontSize=80&width=500)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&multiline=true&width=600&height=150&lines=Hi%2C+I'm+An+%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F;I'm+a+mobile+developer)](https://git.io/typing-svg)
 
 <!--
 **phuocantd/phuocantd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
