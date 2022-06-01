@@ -17,6 +17,7 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.6
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           devcard_id: d7b4039e7bd0458ea831c66a77b419d8
           commit_branch: devcard
           commit_filename: devcard.png
