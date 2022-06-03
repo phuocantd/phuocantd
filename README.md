@@ -3,14 +3,14 @@
 
 <!-- ![](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.gif) -->
 
+
+
+![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
+
 <!-- ## Github Contributions 📈 -->
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=phuocantd&theme=react-dark&hide_border=true">
 <p>
-<br>
-
-
-![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
   
   
 | ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuocantd&theme=react)                                                                                                           |
