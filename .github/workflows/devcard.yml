@@ -18,7 +18,7 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          devcard_id: d7b4039e7bd0458ea831c66a77b419d8
+          devcard_id: dc7ab985949441238bf39f91f81afbdb
           commit_branch: devcard
           commit_filename: devcard.png
           commit_message: "chore: update ${filename}"
