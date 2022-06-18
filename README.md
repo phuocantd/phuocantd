@@ -1,9 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&multiline=true&width=600&height=150&lines=Hi%2C+I'm+An+%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F;I'm+a+mobile+developer)](https://git.io/typing-svg)
 
-<!-- ![](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.gif) -->
-
-
 
 ![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
 
@@ -36,7 +33,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=phuocantd&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 </div>  
 
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=phuocantd.phuocantd" /> -->
 <details>
 <summary>Click for view detail</summary>
   <br>
@@ -51,8 +47,6 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/7294147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7294147" height="30" width="40" /></a>
 <a href="https://codesandbox.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="phuocantd" height="30" width="40" /></a>
 <a href="https://kaggle.com/annguynphc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annguynphc" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://instagram.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phuocantd" height="30" width="40" /></a> -->
 <a href="https://dribbble.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="phuocantd" height="30" width="40" /></a>
 <a href="https://www.behance.net/phuocantdc959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="phuocantdc959" height="30" width="40" /></a>
 <a href="https://hashnode.com/@phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@phuocantd" height="30" width="40" /></a>
@@ -72,19 +66,7 @@ Here are some ideas to get you started:
   <br>
   <br/>
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/phuocantd/)
-[![Tweeter Badge](https://img.shields.io/badge/%20-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/phuocantd_) -->
 
-<!-- #### STATS
-![Phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&theme=dark)
-<br>
-  
-  
-#### STREAKS
-![Phuocantd's github streak](https://github-readme-streak-stats.herokuapp.com/?user=phuocantd&theme=blue-green)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocantd&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-  
   
 </details>
 
