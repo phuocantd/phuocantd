@@ -28,11 +28,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=phuocantd&theme=algolia&column=9&margin-w=5" />
+
 <div align="left">
 
 ![](https://komarev.com/ghpvc/?username=phuocantd&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 </div>  
 
+  
+ 
 <details>
 <summary>Click for view detail</summary>
   <br>
@@ -66,7 +71,5 @@ Here are some ideas to get you started:
   <br>
   <br/>
 
-
-  
 </details>
 
