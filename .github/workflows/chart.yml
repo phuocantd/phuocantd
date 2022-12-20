@@ -9,8 +9,6 @@ on:
     paths-ignore:
       - README.md
       - .github/workflows/rating-chart.yml
-  schedule:
-    - cron: "0 0 * * *"
 jobs:
   ratings-chart:
     runs-on: ubuntu-latest
