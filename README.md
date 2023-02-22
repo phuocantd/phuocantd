@@ -5,9 +5,9 @@
 ![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
 
 <!-- ## Github Contributions 📈 -->
-<p align='center'>
+<!-- <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=phuocantd&theme=react-dark&hide_border=true">
-<p>
+<p> -->
   
   
 | ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuocantd&theme=react)                                                                                                           |
@@ -38,18 +38,18 @@
 <a href="https://linkedin.com/in/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phuocantd" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7294147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7294147" height="30" width="40" /></a>
 <a href="https://codesandbox.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://kaggle.com/annguynphc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annguynphc" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/annguynphc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annguynphc" height="30" width="40" /></a> -->
 <a href="https://dribbble.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://www.behance.net/phuocantdc959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="phuocantdc959" height="30" width="40" /></a>
+<!-- <a href="https://www.behance.net/phuocantdc959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="phuocantdc959" height="30" width="40" /></a> -->
 <a href="https://hashnode.com/@phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@phuocantd" height="30" width="40" /></a>
 <a href="https://medium.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="phuocantd" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/phuocantd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="phuocantd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="phuocantd" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="phuocantd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/nguyen194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nguyen194" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/phuocf9an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="phuocf9an" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="phuocantd" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/nguyen194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nguyen194" height="30" width="40" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/phuocf9an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="phuocf9an" height="30" width="40" /></a> -->
+<!-- <a href="https://www.topcoder.com/members/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="phuocantd" height="30" width="40" /></a> -->
 </p>
   
   <b align="left">Support:</b>
