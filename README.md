@@ -10,11 +10,10 @@
 <p> -->
   
   
-| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuocantd&theme=react)                                                                                                           |
+| <div align="center">![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&theme=react) </div>            | <div align="center">![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuocantd&theme=react) </div>                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocantd&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
-  
-  [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=7294147)](https://stackoverflow.com/users/7294147/phuocantd)
+| <div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocantd&langs_count=8&theme=react&layout=compact)</div> | <div align="center">![Github Stars](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) </div>|
+ | <div align="center">[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=7294147)](https://stackoverflow.com/users/7294147/phuocantd)</div> | <div align="center"><img src="https://github-readme-stackoverflow.vercel.app/?userID=7294147&theme=dark" height="250"></div> |
 
 <img src="https://github-profile-trophy.vercel.app/?username=phuocantd&theme=algolia&column=9&margin-w=5" />
 
